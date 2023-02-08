@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Eucalyptus",
+      "image": "https://www.ikea.com/us/en/images/products/fejka-artificial-potted-plant-indoor-outdoor-eucalyptus__0674947_pe718059_s5.jpg?f=xs",
+      "price": 14.56,
+      "id": 8
     }
   ]
 }
